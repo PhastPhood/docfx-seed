@@ -19,12 +19,12 @@
         "dest": "api"
       },
       {
-        "files": [ "articles/**/*.md", "*.md", "toc.yml", "restapi/**" ]
+        "files": [ "articles/**/*.md", "*.md", "toc.yml", "restapi/**", "ide/**/*.md", "install/**/*.md", "how-to-guides/**/*.md", "quickstart/**/*.md", "reference/**/*.md", "resources/**/*.md" ]
       }
     ],
     "resource": [
       {
-        "files": [ "articles/images/**"]
+        "files": [ "articles/images/**", "ide/media/**", "install/media/**", "how-to-guides/media/**", "quickstart/media/**", "reference/media/**", "resources/media/**" ]
       }
     ],
     "overwrite": "specs/*.md",

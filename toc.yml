@@ -1,9 +1,18 @@
-﻿- name: Home
-  href: index.md
-- name: Articles
-  href: articles/
-  homepage: articles/docfx_getting_started.md
-- name: API Documentation
-  href: obj/api/
-- name: REST API
-  href: restapi/
+﻿- name: Overview
+  href: ide/
+  homepage: ide/visual-studio-ide.md
+- name: Installation
+  href: install/
+  homepage: install/install-visual-studio.md
+- name: Quickstarts
+  href: quickstart/
+  homepage: quickstart/quickstart-ide-orientation.md
+- name: How-to guides
+  href: how-to-guides/
+  homepage: how-to-guides/code-snippets.md
+- name: Reference
+  href: reference/
+  homepage: reference/call-hierarchy.md
+- name: Resources
+  href: resources/
+  homepage: resources/whats-new-in-visual-studio.md
