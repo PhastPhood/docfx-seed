@@ -10,7 +10,7 @@ manager: douge
 ms.workload:
   - "multiple"
 ---
-# Quickstart: Personalize the Visual Studio IDE and Editor
+# Personalize the Visual Studio IDE and Editor
 
 In this 5-10 minute quickstart, we'll customize the Visual Studio color theme and two text colors in the **Text Editor**.
 

@@ -10,7 +10,7 @@ manager: douge
 ms.workload:
   - "multiple"
 ---
-# Quickstart: Projects and solutions
+# Projects and solutions
 
 In this 10-minute quickstart, we'll explore what it means to create a solution and a project in Visual Studio. We'll look at the properties of a project and some of the files it can contain. We'll also create a reference to a second project.
 

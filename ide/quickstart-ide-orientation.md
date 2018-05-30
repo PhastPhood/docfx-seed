@@ -10,7 +10,7 @@ manager: douge
 ms.workload:
   - "multiple"
 ---
-# Quickstart: First look at the Visual Studio IDE
+# First look at the Visual Studio IDE
 
 In this 5-10 minute introduction to the Visual Studio integrated development environment (IDE), we'll take a tour of some of the windows, menus, and other UI features.
 
